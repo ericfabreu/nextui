@@ -1,5 +1,15 @@
 # @nextui-org/badge
 
+## 2.0.25
+
+### Patch Changes
+
+- [#2541](https://github.com/nextui-org/nextui/pull/2541) [`26a3a7d2c`](https://github.com/nextui-org/nextui/commit/26a3a7d2c6433c3bdd2aa6e6200077a57fdd94f4) Thanks [@withden](https://github.com/withden)! - Removing the `children` type from BadgeProps, as the already extended UseBadgeProps has a `children` prop.
+
+- Updated dependencies [[`c5049edfd`](https://github.com/nextui-org/nextui/commit/c5049edfde7edaee2081d70e581739be9dcae2f9)]:
+  - @nextui-org/system-rsc@2.0.12
+  - @nextui-org/react-utils@2.0.11
+
 ## 2.0.24
 
 ### Patch Changes

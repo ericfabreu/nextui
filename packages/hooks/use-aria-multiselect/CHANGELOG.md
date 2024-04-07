@@ -1,5 +1,11 @@
 # @nextui-org/use-aria-multiselect
 
+## 2.1.5
+
+### Patch Changes
+
+- [#2589](https://github.com/nextui-org/nextui/pull/2589) [`a60c2d7b2`](https://github.com/nextui-org/nextui/commit/a60c2d7b22b3335084b4a846f9d39f00751e8c24) Thanks [@wingkwong](https://github.com/wingkwong)! - Handle numeric selectedKeys in Select
+
 ## 2.1.4
 
 ### Patch Changes

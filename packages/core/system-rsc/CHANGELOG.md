@@ -1,5 +1,11 @@
 # @nextui-org/system-rsc
 
+## 2.0.12
+
+### Patch Changes
+
+- [#2522](https://github.com/nextui-org/nextui/pull/2522) [`c5049edfd`](https://github.com/nextui-org/nextui/commit/c5049edfde7edaee2081d70e581739be9dcae2f9) Thanks [@wingkwong](https://github.com/wingkwong)! - Fixed unexpected props on a DOM element (#2474)
+
 ## 2.0.11
 
 ### Patch Changes

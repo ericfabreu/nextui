@@ -1,5 +1,13 @@
 # @nextui-org/theme
 
+## 2.1.19
+
+### Patch Changes
+
+- [#2538](https://github.com/nextui-org/nextui/pull/2538) [`0359bf308`](https://github.com/nextui-org/nextui/commit/0359bf3084d9f0fc29bf70505b600dab5e1c5da1) Thanks [@wingkwong](https://github.com/wingkwong)! - Fixed missing disableAnimation behavior in skeleton
+
+- [#2522](https://github.com/nextui-org/nextui/pull/2522) [`c5049edfd`](https://github.com/nextui-org/nextui/commit/c5049edfde7edaee2081d70e581739be9dcae2f9) Thanks [@wingkwong](https://github.com/wingkwong)! - Fixed unexpected props on a DOM element (#2474)
+
 ## 2.1.18
 
 ### Patch Changes
